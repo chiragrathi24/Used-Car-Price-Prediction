@@ -1,2 +1,2 @@
 # Used-Car-Price-Prediction
- Used Car Price Prediction
+ In this the price of the used car is predicted based on its various features.
